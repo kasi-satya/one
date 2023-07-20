@@ -49,17 +49,17 @@
                 <li><span>Tuesday:</span> <small> 8:00 am - 5:00 pm</small></li>
 
              
-                  <span>Wednesday:</span> <small> 8:00 am - 5:00 pm</small>
+                  <li><span>Wednesday:</span> <small> 8:00 am - 5:00 pm</small></li>
         
 
               
-                  <span>Thursday:</span> <small> 8:00 am - 5:00 pm</small>
+                  <li><span>Thursday:</span> <small> 8:00 am - 5:00 pm</small></li>
                 
 
-              <span>Friday:</span> <small> 8:00 am - 5:00 pm</small>
+             <li> <span>Friday:</span> <small> 8:00 am - 5:00 pm</small></li>
 
           
-                  <span>Saturday:</span> <small> 8:00 am - 5:00 pm</small>
+                  <li><span>Saturday:</span> <small> 8:00 am - 5:00 pm</small></li>
                
 
                 <li><span>Sunday:</span> <small> 8:00 am - 3:00 pm</small></li>
