@@ -4,7 +4,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CICD HERE</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">THIS IS last VERSION OF OUR APPLICATION</h1>
+	<h1 style="color: green; font-size: 40px;" align="center"><li><a href="https://siamiamla.com/#contact-page">Contact Us</a></li></h1>
 <h1 align="center">
 <a href="https://siamiamla.com/"><img src="https://clorderclient.s3.amazonaws.com/siamiamlogo.png" alt="Restaurant logo"> </a>
 </h1>
