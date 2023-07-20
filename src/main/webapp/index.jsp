@@ -7,9 +7,9 @@
 	<h1 style="color: blue; font-size: 20px;" align="center">Siam I Am has some of the best Thai food outside of Thai Town in Hollywood. And because we're small, we can offer the absolute best prices in the entire South Bay. We're just a five minute walk from the Redondo Pier, so stop by or even to make it easier, we are online.</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
-	<h1 style="color: green; font-size: 40px;" align="center"><a href="https://siamiamla.com/#our-gallery">Our Gallery</a></h1>
+	<h1 style="color: green; font-size: 40px;" align="center"><a href="https://siamiamla.com/#our-gallery"></a>Our Gallery</h1>
 <h1 style="color: orange; font-size: 40px;" align="center">
-	<a href="https://siamiam.clorder.com/Ordermenu.aspx" class="header-button">Click on Menu to order</a> </h1>
+	<a href="https://siamiam.clorder.com/Ordermenu.aspx" class="header-button">Click on Menu to order online</a> </h1>
 <h1 align="center">	
 <section
         id="secondparallax"
@@ -23,14 +23,14 @@
           <div class="row">
             <div class="col-md-5">
               <div class="contact-details">
-                <h1>(818) 396-0515</h1>
+                <h1>(310) 374-7202</h1>
 
-                <h2>xo.cafe1@gmail.com</h2>
+                <h2>newsiamiam@gmail.com</h2>
 
                 <h2>
-                  6316 San Fernando Rd, <br />
+                  215 S Pacific Coast Hwy, <br />
 
-                  Glendale, CA 91201 <br />
+                  Redondo Beach, CA 90277 <br />
                 </h2>
               </div>
               <br />
