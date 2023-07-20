@@ -7,7 +7,7 @@
 	<h1 style="color: blue; font-size: 20px;" align="center">Siam I Am has some of the best Thai food outside of Thai Town in Hollywood. And because we're small, we can offer the absolute best prices in the entire South Bay. We're just a five minute walk from the Redondo Pier, so stop by or even to make it easier, we are online.</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
-	<h1 style="color: green; font-size: 40px;" align="center"><a href="https://siamiamla.com/#our-gallery"></a>Our Gallery</h1>
+	<h1 style="color: green; font-size: 40px;" align="center"><a href="https://siamiamla.com/#our-gallery">Our Gallery</a></h1>
 <h1 style="color: orange; font-size: 40px;" align="center">
 	<a href="https://siamiam.clorder.com/Ordermenu.aspx" class="header-button">Click on Menu to order online</a> </h1>
 <h1 align="center">	
