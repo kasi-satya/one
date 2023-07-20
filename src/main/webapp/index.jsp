@@ -1,13 +1,13 @@
 <html>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CICD HERE</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
-	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
-	<h1 style="color: green; font-size: 40px;" align="center"><li><a href="https://siamiamla.com/#contact-page">Contact Us</a></li></h1>
 <h1 align="center">
 <a href="https://siamiamla.com/"><img src="https://clorderclient.s3.amazonaws.com/siamiamlogo.png" alt="Restaurant logo"> </a>
 </h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">Welcome to Siam I Am</h1>
+	<h1 style="color: blue; font-size: 20px;" align="center">Siam I Am has some of the best Thai food outside of Thai Town in Hollywood. And because we're small, we can offer the absolute best prices in the entire South Bay. We're just a five minute walk from the Redondo Pier, so stop by or even to make it easier, we are online.</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
+	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
+	<h1 style="color: green; font-size: 40px;" align="center"><li><a href="https://siamiamla.com/#our-gallery"><button>Gallery</button></a></li></h1>
 <h1 style="color: orange; font-size: 40px;" align="center">
 	<a href="https://siamiam.clorder.com/Ordermenu.aspx" class="header-button">Click on Menu to order</a> </h1>
 <h1 align="center">	
@@ -35,53 +35,6 @@
               </div>
               <br />
 
-              <div class="subscribe_align">
-                <input
-                  type="email"
-                  name="email"
-                  class="subscribe-input"
-                  id="txtEmail"
-                  placeholder="sign up for our newsletter"
-                />
-
-                <input type="hidden" id="824" value="9" />
-
-                <button
-                  id="btnSubscribe"
-                  type="submit"
-                  class="subscribe-submit"
-                  value="subscribe"
-                >
-                  Subscribe
-                </button>
-
-                <label id="lblEmailError" style="display: none">
-                  <font color="#fff" style="font-size: 12px">
-                    Email is mandatory
-                  </font>
-                </label>
-
-                <label id="lblEmailError2" style="display: none">
-                  <font color="#fff" style="font-size: 12px">
-                    Enter valid email</font
-                  >
-                </label>
-
-                <div
-                  id="confirmDiv"
-                  style="
-                    display: none;
-                    color: #fff;
-                    background-color: #59a80f;
-                    border: #257a04 solid 2px;
-                    font-size: 18px;
-                    padding: 5px 0;
-                  "
-                  align="center"
-                >
-                  Your message was sent successfully. Thanks.
-                </div>
-              </div>
             </div>
             <br />
 
