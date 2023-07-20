@@ -10,7 +10,7 @@
 </h1>
 <h1 style="color: orange; font-size: 40px;" align="center">
 	<a href="https://siamiam.clorder.com/Ordermenu.aspx" class="header-button">Click on Menu to order</a> </h1>
-	
+<h1 align="center">	
 <section
         id="secondparallax"
         class="fullscreen white-section"
@@ -115,6 +115,6 @@
           </div>
         </div>
       </section>
-	
+	</h1>
 </body>
 </html>
