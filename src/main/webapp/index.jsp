@@ -1,9 +1,11 @@
-<html>
+<!doctype html>
+<html class="no-js" lang="zxx">
+<title>Siam I Am Restaurant | Tasty Delicacies</title>
 <body>
 <h1 align="center">
 <a href="https://siamiamla.com/"><img src="https://clorderclient.s3.amazonaws.com/siamiamlogo.png" alt="Restaurant logo"> </a>
 </h1>
-	<h1 style="color: violet; font-size: 40px;" align="center">Welcome to Siam I Am Res</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">Welcome to Siam I Am Restaurant</h1>
 	<h1 style="color: blue; font-size: 20px;" align="center">Siam I Am has some of the best Thai food outside of Thai Town in Hollywood. And because we're small, we can offer the absolute best prices in the entire South Bay. We're just a five minute walk from the Redondo Pier, so stop by or even to make it easier, we are online.</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
